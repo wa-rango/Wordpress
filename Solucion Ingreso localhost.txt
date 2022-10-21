@@ -1,0 +1,18 @@
+Error Vaya no se puede acceder a esta página localhost Rechazo la conexión SOLUCION 2021 
+
+APACHE. Parte 1.
+Existen varias soluciones para este problema.
+El primero puede ser la dirección a la que estas enviando el archivo HTML.
+Les mostrare usando el IDE de Brackets compilando un programa HTML usando PHP.
+En el programa podemos ver que el action del HTML nos dirige hacia un documento PHP llamado Constructor.php
+Lo ejecutamos y vemos que sucede.
+Vemos que nos sale el error cuando el localhost de nuestra pc busca el archivo nos manda el mensaje
+localhost rechazó la conexión.
+Buscar en la web localhost
+Este problema es porque nuestro servidor apache no esta siendo ejecutado.
+Para ello necesitamos instalar la herramienta XAMPP.
+E iniciar apache. Para instalar XAMPP les dejo el link del video de instalación. y como configurarlo.
+Luego abrimos XAMPP damos donde dice Start en apache.
+Vemos que aparece apache iniciado en el sistema.
+Ahora volvemos a ejecutar nuestro programa.
+Y listo vemos que nuestro programa funciona correctamente.

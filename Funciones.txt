@@ -1,0 +1,20 @@
+Funciones:
+
+wp_head() => trae todas las funciones que hagan referencia al hook wp_head
+wp_footer => trae trolas las funciones que hagan referencia al hook wp_footer
+
+get_header() => Llama y genera las funciones del encabezado
+get_footer() => Llama y genera las funciones del pie de página
+
+add_theme_support() => Agrega función a wordpress
+add_action() => Ejecuta la función
+
+
+Screenshot: puede ser PNG | JPG. La resolución correcta es de 880x660, sin embargo se adapata a cualquier resolución. Se debe llamar, p.e., screenshot.png
+Index: contener todo lo que va ir siempre en la pagina.
+Functions: se declara init_templates para comenzar a mostrar la vista.
+
+
+
+
+https://fonts.googleapis.com/css?family=Monserrat&display=swap
